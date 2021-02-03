@@ -1,6 +1,6 @@
 # Stock_Price_with_News
 Measurements on how well the news sentiment scores can affect stock price. 
-# Natural Language Processing with Stock Price
+
 Side project with NLP techniques on stock pricing. 
 
 
@@ -39,7 +39,7 @@ Side project with NLP techniques on stock pricing.
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo https://github.com/steven0323/Stock_Price_with_News.git
    ```sh
    git clone 
    ```
@@ -80,7 +80,7 @@ _[Documentation 2](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the () for a list of proposed features 
+See the (https://github.com/steven0323/Stock_Price_with_News.git) for a list of proposed features 
 
 
 
@@ -90,6 +90,6 @@ See the () for a list of proposed features
 
 Steven Tseng - yuhtseng@ucdavis.edu - email
 
-Project Link: []
+Project Link: [https://github.com/steven0323/Stock_Price_with_News.git]
 
 
